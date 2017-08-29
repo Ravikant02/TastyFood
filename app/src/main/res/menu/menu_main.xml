@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.testyfood.activity.MainActivity">
+    <item
+        android:id="@+id/action_veg"
+        android:orderInCategory="100"
+        android:title="@string/only_veg"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_nv"
+        android:orderInCategory="100"
+        android:title="@string/only_nv"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_low"
+        android:orderInCategory="100"
+        android:title="@string/price_low_to_high"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_high"
+        android:orderInCategory="100"
+        android:title="@string/price_high_to_low"
+        app:showAsAction="never" />
+</menu>

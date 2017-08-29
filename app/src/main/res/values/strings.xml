@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Testy Food</string>
+    <string name="action_settings">Settings</string>
+    <string name="please_wait">Hold on! Loading items</string>
+    <string name="please_check_internet">Please check your internet connection and try again!</string>
+    <string name="price_low_to_high">Price low to high</string>
+    <string name="price_high_to_low">Price high to low</string>
+    <string name="only_veg">Only Veg</string>
+    <string name="only_nv">Only Non-Veg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
